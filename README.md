@@ -19,6 +19,6 @@
 - click on deply keys
 - add deploy 
 
-### It is essential to give descriptive/informative names 
+### It is essential to give descriptive/informative names for ssh keys 
 
 
