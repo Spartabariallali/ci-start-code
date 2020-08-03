@@ -2,7 +2,7 @@
 
 ### The two methods to clone repos: 
 ` SSH and HTTPS `
-- there are two types of repos:
+### There are two types of repos:
  `public repos` and `private repos`
 
 
