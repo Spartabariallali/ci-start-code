@@ -13,6 +13,7 @@
 - `cd` home directory
 - find `.ssh`
 - run the command `ssh-keygen -t rsa -b 4096 -C "your_email@example.com"`
+- ensure the email is your own email that is linked with the github account
 - name the new key as your name 
 - go to your github to the specific repo
 - click on setting
