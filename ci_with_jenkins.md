@@ -8,8 +8,11 @@
 - Differences between ci and cd - ci all commits are made to the development brance 
 - cd (contonous delivery) is the practice of packaging and preparing the software as if it was sent to production
 - for example:
+
 ``` Integrate --> Test --> Release --> Deploy test ```
+
 ``` Integrate --> Test --> Release --> Deploy test --> Deploy Production ```
+
 ``` Integrate --> Test --> Release --> Deploy test ``` 
 
 
