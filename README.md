@@ -21,5 +21,5 @@
 - add deploy 
 
 ### It is essential to give descriptive/informative names for ssh keys 
-
+- the public key works as a padlock and the private key works as the key to unlock and allow the access to behind the padlock
 
