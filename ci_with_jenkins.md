@@ -13,6 +13,9 @@
 
 ``` Integrate --> Test --> Release --> Deploy test --> Deploy Production ```
 
-``` Integrate --> Test --> Release --> Deploy test ``` 
-
+``` Integrate --> Test --> Release --> Deploy test ```
+ 
+### Continous Delivery
+- After the code has been sent to the SCM it is ready to be deployed
+- CD aims to test the entire application with all its dependencies.
 
